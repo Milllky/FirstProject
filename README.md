@@ -26,12 +26,13 @@ package:com.android.providers.downloads
 package:com.google.android.cellbroadcastreceiver
 package:com.android.bluetoothmidiservice
 package:com.android.networkstack.overlay
+package:com.google.android.photopicker
 package:com.google.android.printservice.recommendation
 package:com.hihonor.ddmp
 package:com.google.android.captiveportallogin
-package:com.google.android.networkstack
 package:com.hihonor.koBackup
 package:com.hihonor.audioaccessorymanager
+package:com.google.android.networkstack
 package:com.hihonor.android.hnaps
 package:com.android.keychain
 package:com.google.android.overlay.gmsconfig.asi
@@ -46,6 +47,7 @@ package:com.hihonor.aipluginengine
 package:com.vkontakte.android
 package:com.android.inputdevices
 package:com.dc.hwsj
+package:com.google.android.appsearch.apk
 package:com.hihonor.hiviewtunnel
 package:com.google.android.ondevicepersonalization.services
 package:com.hihonor.securitypluginbase
@@ -64,13 +66,14 @@ package:com.android.frameworkres.overlay
 package:com.hihonor.phoneservice
 package:com.android.providers.blockednumber
 package:com.hihonor.android.pushagent
-package:com.google.android.documentsui
 package:ru.yandex.yandexmaps
+package:com.google.android.documentsui
 package:com.android.statementservice
 package:com.hihonor.assetsyncservice
 package:com.google.android.overlay.modules.documentsui
 package:com.hihonor.hndockbar
 package:com.android.proxyhandler
+package:com.google.android.safetycore
 package:com.google.android.overlay.modules.permissioncontroller
 package:com.android.managedprovisioning
 package:com.android.emergency
@@ -91,6 +94,7 @@ package:com.android.mtp
 package:com.google.android.gsf
 package:com.google.android.apps.accessibility.voiceaccess
 package:com.hihonor.email
+package:com.fitifyapps.bwcardio
 package:com.android.internal.systemui.navbar.hide
 package:com.hihonor.hnmediagraph
 package:com.hihonor.android.internal.app
@@ -187,7 +191,7 @@ package:com.android.ons
 package:com.hihonor.contacts
 package:com.hihonor.lbs
 package:com.google.android.apps.docs
-package:com.google.android.nearby.halfsheet
+package:com.google.android.contactkeys
 package:com.microsoft.appmanager
 package:com.android.certinstaller
 package:com.hihonor.videoeditor
@@ -246,7 +250,6 @@ package:com.hihonor.nearby
 package:com.google.android.gms.supervision
 package:com.google.android.overlay.gmsconfig.gsa
 package:com.android.providers.userdictionary
-package:com.rocketapp.exampdd
 package:com.google.android.overlay.gmsconfig.common
 package:com.google.android.apps.photos
 package:com.android.cts.ctsshim
@@ -272,8 +275,8 @@ package:com.android.providers.partnerbookmarks
 package:com.hihonor.dmsdp
 package:ru.aliexpress.buyer
 package:com.hihonor.appmarket
-package:com.google.mainline.telemetry
 package:com.hihonor.browserhomepage
+package:com.google.mainline.telemetry
 package:com.android.dynsystem
 package:com.hihonor.camera
 package:com.hihonor.pcassistant
