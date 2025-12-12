@@ -246,6 +246,7 @@ package:com.hihonor.nearby
 package:com.google.android.gms.supervision
 package:com.google.android.overlay.gmsconfig.gsa
 package:com.android.providers.userdictionary
+package:com.rocketapp.exampdd
 package:com.google.android.overlay.gmsconfig.common
 package:com.google.android.apps.photos
 package:com.android.cts.ctsshim
